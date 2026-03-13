@@ -54,7 +54,7 @@
 
 ###
 
-<h3 align="left">What I'm aiming for</h3>
+<h3 align="left">🎯 What I'm aiming for</h3>
 
 ###
 
