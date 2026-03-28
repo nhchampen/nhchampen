@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a 23‑year‑old student at Epitech Lyon's WebAcademie, training to become a full‑stack developer. My next step is to specialize in system & network administration with a strong focus on cybersecurity.<br><br>My background in graphic design (UI, branding, print, digital) gives me a unique eye for detail. I'm drawn to backend development – functional programming intrigues me, and I'm currently enjoying OOP with PHP and Laravel.<br><br>I'm looking for a work‑study opportunity (alternance) while I build projects that make sense and help people. On GitHub, I share my learning journey through school and personal work.<br><br>My motto: No matter the situation, the most important thing is to bounce back.</p>
+<p align="left">I'm a 23‑year‑old student at Epitech Lyon WebAcademie, training to become a full‑stack developer. My next step is to specialize in system & network administration with a strong focus on cybersecurity.<br><br>My background in graphic design (UI, branding, print, digital) gives me a unique eye for detail. I'm drawn to backend development – functional programming intrigues me, and I'm currently enjoying OOP with PHP and Laravel.<br><br>I'm looking for a work‑study opportunity (alternance) while I build projects that make sense and help people. On GitHub, I share my learning journey through school and personal work.<br><br>My motto: No matter the situation, the most important thing is to bounce back.</p>
 
 ###
 
