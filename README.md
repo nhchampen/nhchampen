@@ -39,6 +39,8 @@
 ###
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="48" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="48" alt="spring logo"  />
