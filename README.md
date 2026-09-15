@@ -6,8 +6,7 @@
 ###
 
 <p align="left">
-Full‑stack developer at heart, now specializing in Data Science. Background in graphic design, now focused on backend development and data.
-</p>
+Full‑stack developer at heart, now specializing in Data Science.
 
 ###
 
